@@ -1,0 +1,25 @@
+.nav-buttons{
+    font-weight: 600;
+    font-family: 'Montserrat';
+    font-size: 23px;
+
+}
+.home-container{
+    background-image: linear-gradient(to bottom,#86dd9b,#0cb436);
+    color: white;
+    height: 100vh;
+}
+.nav-head{
+    font-weight: 400;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+}
+.home-img{
+    border-radius: 15px;
+    width: 130%;
+}
+.home-para{
+    font-size: 25px;
+    line-height:1.6;
+    
+}

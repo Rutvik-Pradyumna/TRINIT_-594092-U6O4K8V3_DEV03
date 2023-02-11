@@ -7,7 +7,6 @@
 .home-container{
     background-image: linear-gradient(to bottom,#86dd9b,#0cb436);
     color: white;
-    height: 100vh;
 }
 .nav-head{
     font-weight: 400;
@@ -16,10 +15,62 @@
 }
 .home-img{
     border-radius: 15px;
-    width: 130%;
+    width: 100%;
 }
 .home-para{
     font-size: 25px;
     line-height:1.6;
+    font-family: 'Merriweather Sans', sans-serif;
     
+}
+/* schemes */
+.schemes-container{
+    background-image: linear-gradient(to bottom,#0cb436,#86dd9b);
+}
+.carousel-item{
+    color: #fff;
+    text-align: center;
+    padding-top: 8%;
+}
+.scheme-heading{
+    margin-bottom: 3%;
+    font-weight: 800;
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    
+}
+.scheme-para{
+    margin: 0 20% 3% 20%;
+    font-size: 1.5rem;
+    font-family: 'Merriweather Sans', sans-serif;
+    line-height: 1.7;
+}
+.scheme-image{
+    width: 20%;
+    margin-bottom: 3%;
+    border-radius: 30px;
+}
+.scheme-button{
+    font-weight: 500;
+    
+}
+.send-msg{
+    background-color: #86dd9b;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
+}
+.reply-msg{
+    color: white;
+    background-color: #e57742;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
+}
+.reply-link{
+    color: white;
+    background-color: #e57742;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
 }

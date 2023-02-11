@@ -7,7 +7,6 @@
 .home-container{
     background-image: linear-gradient(to bottom,#86dd9b,#0cb436);
     color: white;
-    height: 100vh;
 }
 .nav-head{
     font-weight: 400;
@@ -30,7 +29,6 @@
 }
 .carousel-item{
     color: #fff;
-    height: 100vh;
     text-align: center;
     padding-top: 8%;
 }
@@ -55,4 +53,24 @@
 .scheme-button{
     font-weight: 500;
     
+}
+.send-msg{
+    background-color: #86dd9b;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
+}
+.reply-msg{
+    color: white;
+    background-color: #e57742;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
+}
+.reply-link{
+    color: white;
+    background-color: #e57742;
+    border-radius: 15px;
+    font-weight: bold;
+    max-width: 50%;
 }

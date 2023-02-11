@@ -31,7 +31,7 @@ function sendQuery(item){
 
 function fetchQuery(){
     let val=userInput.value;
-
+    
     let inputContainer=document.createElement("div");
     inputContainer.classList.add("d-flex","flex-row","justify-content-end","pr-3");
     chatContainer.appendChild(inputContainer);
